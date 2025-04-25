@@ -5,7 +5,7 @@ def log_task(max_line_length=80):
     now = datetime.datetime.now()
     timestamp = now.strftime("%Y-%m-%d %H:%M:%S")  
 
-    task_description = input("What did you do today? ")  # Prompt user for input
+    task_description = input("What did you do today? ") 
 
     log_file_path = 'daily_log.txt'
 
