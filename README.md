@@ -1,0 +1,1 @@
+A simple task logger made with the help of chatGPT and patience made to help motivate and keep track of projects while coninuing to learn and make stuff.

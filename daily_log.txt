@@ -1,0 +1,8 @@
+[2025-04-25 14:02:44] made some nice changes to the CLI on my website, a cool border functioning commands, a decent prompt. a nice border with rounded edges, learned quite a lot. lost it all in some fumble and decided to make something simpler. 
+[2025-04-25 14:04:44] so i made this app to log my daily activity in the hopes of keeping motivation to continue learning
+[2025-04-25 14:10:48] added a new line function for better readability
+
+[2025-04-25 14:15:11] third time lucky trying to get a new line on this dang log
+
+[2025-04-25 14:16:54] tested it again to make sure.. I'll push it for a green square if all goes well, and maybe try that website again after some lunch.
+
