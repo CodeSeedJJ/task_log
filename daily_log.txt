@@ -13,3 +13,7 @@ man what journet I should have finished that CLI on my website instead.. here's
 to keeping the calander green! and a little padding at the end to ensure we're
 over the line limit.
 
+[2025-04-26 22:24:55] 
+
+[2025-04-26 22:25:47] couldn't find a project that I could focus on.
+
